@@ -8,9 +8,9 @@
 2. After installation, open Command Prompt or PowerShell and run:
    py -m ensurepip --upgrade
 
-3. download  https://github.com/hashcloudsh/hashcloud-miner.git 
+3. Download  https://github.com/hashcloudsh/hashcloud-miner.git 
 
-4. extract files and open terminal in that folder
+4. Extract files and open terminal in that folder
 
 5. Run the command:
    .\hashcloud install
@@ -27,7 +27,7 @@ Enjoy mining with HashCloud!
 
 
 ===================================
-       PYTHON VERSION ISSUES
+       PYTHON VERSION
 ===================================
 
 If you already have a newer Python version installed:
