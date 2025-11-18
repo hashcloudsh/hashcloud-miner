@@ -1,6 +1,6 @@
-========================================================
-                 INSTALLATION GUIDE
-========================================================
+====================================
+       INSTALLATION GUIDE
+====================================
 
 1. Download and install Python 3.10.11 from:
    https://www.python.org/downloads/release/python-31011/
@@ -26,9 +26,9 @@ Enjoy mining with HashCloud!
 
 
 
-========================================================
-                 PYTHON VERSION ISSUES
-========================================================
+===================================
+       PYTHON VERSION ISSUES
+===================================
 
 If you already have a newer Python version installed:
 
@@ -47,4 +47,4 @@ If you already have a newer Python version installed:
 5. After installation, run:
    py -m ensurepip --upgrade
 
-========================================================
+
